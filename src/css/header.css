@@ -1,0 +1,13 @@
+/* Header Styles */
+
+.App-header {
+  background-color: #004e82;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+}
+
+.fcLogo {
+  background-image: url(../images/fcLogo.png);
+}

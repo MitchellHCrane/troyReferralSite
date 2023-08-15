@@ -1,0 +1,82 @@
+.getStarted-div {
+  background-color: #fff;
+  margin: 0 0 64px;
+}
+.incentives-eligibility {
+  margin: 64px 8%;
+  margin-left: 256px;
+  margin-right: 256px;
+}
+
+.getStartedBackground {
+  background-image: url(../images/getStartedBackground.png);
+  background-color: #2ca4f2;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 64px 8% 160px;
+text-align: center;
+}
+
+.getStartedH2 {
+  margin-top: 96px;
+  font-size: 36px;
+  color:#fff;
+}
+
+.getStartedP {
+  color:#fff;
+}
+
+.grid-container {
+  max-width: 1024px;
+  margin: -96px auto 0;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  justify-content: center;
+}
+
+.programDetailsEligibility {
+  margin-top: 64px;
+}
+
+.programDetailsDiv {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding-bottom: 32px;
+}
+
+.programDetailsH2 {
+  font-size: 32px;
+  margin-left: 8px;
+  
+}
+
+.topSpacing {
+  margin-top: 64px;
+}
+
+.dollarReward {
+  color:#004e82;
+  font-weight: bolder;
+}
+
+.heroIconSpan {
+  background-color: #F5BA54;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+}
+.heroIcon {
+  color:#fff;
+  height: 48px;
+}
+
+@media (min-width: 1024px) {
+  .grid-container {
+    grid-template-columns: auto auto auto;
+  }
+}
