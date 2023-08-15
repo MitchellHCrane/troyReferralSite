@@ -73,6 +73,11 @@ text-align: center;
   height: 48px;
 }
 
+.heroIconClipBoard {
+  color:#fff;
+  height: 40px;
+}
+
 .formDiv {
   display: flex;
   justify-content: center;
