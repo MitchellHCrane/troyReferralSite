@@ -4,8 +4,6 @@
 }
 .incentives-eligibility {
   margin: 64px 8%;
-  margin-left: 256px;
-  margin-right: 256px;
 }
 
 .getStartedBackground {
@@ -75,8 +73,17 @@ text-align: center;
   height: 48px;
 }
 
+.formDiv {
+  display: flex;
+  justify-content: center;
+}
+
 @media (min-width: 1024px) {
   .grid-container {
     grid-template-columns: auto auto auto;
+  }
+  .incentives-eligibility {
+    margin-left: 256px;
+    margin-right: 256px;
   }
 }

@@ -25,11 +25,11 @@ function Profile() {
         <div className="center-div">
           <h1 className="profileName">We Are Hiring Originators</h1>
           <p className="profileP">
-          The Realtor Referral Program is a great way you can make extra cash!
+            The Realtor Referral Program is a great way you can make extra cash!
           </p>
           <div className="buttonBlueDiv">
             <a href="#getStarted" className="buttonBlue">
-              Make a Referral
+              Learn More
             </a>
           </div>
         </div>

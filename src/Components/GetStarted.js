@@ -9,13 +9,13 @@ function GetStarted() {
         <p className="getStartedP">
           First Class Home Mortgage is a mid-size mortgage company that is
           actively looking to grow our business in these 7 States; California,
-          Colorado, Idaho, New Mexico, Texas, Utah and Florida. NMLS #1843 Since
-          2006, we have helped 1000’s of families realizes the joy of
+          Colorado, Idaho, New Mexico, Texas, Utah & Florida. NMLS #1843 Since
+          2006, we have helped 1,000&apos;s of families realizes the joy of
           homeownership. We support our loan officers with amazing technology,
-          the best programs and social media marketing & advertising.
+          the best programs & social media marketing & advertising.
         </p>
       </div>
-      <div className="incentives-eligibility">
+      <div className="incentives-eligibility" id="getStarted">
         <div className="programDetails">
           <div className="programDetailsDiv">
             <span className="heroIconSpan">
@@ -30,9 +30,9 @@ function GetStarted() {
           </p>
           <p>
             <span className="dollarReward">$695</span> for any referral
-            submitted who is hired by the company and remains in their position
-            and closes one loan with First Class Home Mortgage. (Max is 10 per
-            month or $7,200)
+            submitted who is hired by the company & remains in their position &
+            closes one loan with First Class Home Mortgage. (Max is 10 per month
+            or $7,200)
           </p>
         </div>
         <div className="programDetails topSpacing">
@@ -72,6 +72,15 @@ function GetStarted() {
               </a>
             </span>
           </p>
+        </div>
+        <div className="formDiv">
+          <a
+            href="https://fs10.formsite.com/twarner69/kdbphjilaj/index"
+            target="_blank"
+            className="buttonBlue"
+          >
+            Make a Referral
+          </a>
         </div>
       </div>
     </div>
