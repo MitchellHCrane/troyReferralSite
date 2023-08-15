@@ -77,6 +77,7 @@ function GetStarted() {
           <a
             href="https://fs10.formsite.com/twarner69/kdbphjilaj/index"
             target="_blank"
+            rel="noreferrer"
             className="buttonBlue"
           >
             Make a Referral
