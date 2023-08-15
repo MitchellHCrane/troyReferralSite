@@ -53,7 +53,7 @@ function GetStarted() {
         </div>
         <div className="programDetails topSpacing">
           <div className="programDetailsDiv">
-            <span className="heroIconSpan">
+            <span className="heroIconClipBoardSpan">
               <ClipboardDocumentListIcon className="heroIconClipBoard" />
             </span>
             <h2 className="programDetailsH2">Rules</h2>
