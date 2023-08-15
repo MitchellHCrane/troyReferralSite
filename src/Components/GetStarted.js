@@ -1,5 +1,9 @@
 import "../css/getStarted.css";
-import { CurrencyDollarIcon } from "@heroicons/react/24/outline";
+import {
+  CheckBadgeIcon,
+  ClipboardDocumentListIcon,
+  CurrencyDollarIcon,
+} from "@heroicons/react/24/outline";
 
 function GetStarted() {
   return (
@@ -38,7 +42,7 @@ function GetStarted() {
         <div className="programDetails topSpacing">
           <div className="programDetailsDiv">
             <span className="heroIconSpan">
-              <CurrencyDollarIcon className="heroIcon" />
+              <CheckBadgeIcon className="heroIcon" />
             </span>
             <h2 className="programDetailsH2">Eligibility</h2>
           </div>
@@ -50,7 +54,7 @@ function GetStarted() {
         <div className="programDetails topSpacing">
           <div className="programDetailsDiv">
             <span className="heroIconSpan">
-              <CurrencyDollarIcon className="heroIcon" />
+              <ClipboardDocumentListIcon className="heroIcon" />
             </span>
             <h2 className="programDetailsH2">Rules</h2>
           </div>
