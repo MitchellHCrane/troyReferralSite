@@ -65,9 +65,7 @@ function GetStarted() {
           <p>
             The max cap on the number of referrals a Realtor can make is 10 per
             month. Loan Officers has a max comp plan of 2% lender paid per
-            closed loan. 401-K is offered to tenure employees. Paid Company
-            Trips are for loan officers that close more than 33 loans in a
-            11-month period.
+            closed loan. 401-K is offered to tenure employees.
           </p>
           <p>
             <span className="dollarReward">
