@@ -13,8 +13,8 @@ function GetStarted() {
         <p className="getStartedP">
           First Class Home Mortgage is a mid-size mortgage company that is
           actively looking to grow our business in these 7 States; California,
-          Colorado, Idaho, New Mexico, Texas, Utah & Florida. NMLS #1843 Since
-          2006, we have helped 1,000&apos;s of families realizes the joy of
+          Colorado, Idaho, New Mexico, Texas, Utah & Florida. NMLS #1843 - Since
+          2006, we have helped 1,000&apos;s of families realize the joy of
           homeownership. We support our loan officers with amazing technology,
           the best programs & social media marketing & advertising.
         </p>

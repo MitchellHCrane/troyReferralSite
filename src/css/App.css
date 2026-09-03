@@ -5,7 +5,7 @@ html {
 }
 
 h1 {
-  font-family: "SourceSansPro-Black", Helvetica, Arial;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-size: 24px;
   font-weight: 900;
   color: #004e82;
@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-  font-family: "SourceSansPro-Black", Helvetica, Arial;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-size: 24px;
   font-weight: 900;
   color: #004e82;
@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-  font-family: "SourceSansPro-Black", Helvetica, Arial;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-size: 24px;
   font-weight: 900;
   color: #004e82;
@@ -31,7 +31,7 @@ h3 {
 p,
 a,
 li {
-  font-family: "OpenSans", Helvetica, Arial;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: normal;
@@ -60,7 +60,7 @@ a {
   box-sizing: border-box;
   color: #fff;
   cursor: pointer;
-  font-family: "SourceSansPro-Black", Helvetica, Arial;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 900;
   outline: none;

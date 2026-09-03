@@ -8,7 +8,7 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">Contact</h3>
           <p className="footerP">
-            Phone: <a href="tel:801-597-8832">(801)-597-8832</a>
+            Phone: <a href="tel:+18015978832">(801) 597-8832</a>
           </p>
           {/* <p className="footerP">Fax: (801)-303-7083</p> */}
           <p className="footerP">
@@ -25,7 +25,15 @@ function Footer() {
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">Address</h3>
-          <p className="footerP">First Class Home Mortgage</p>
+          <p className="footerP">
+            <a
+              href="https://1stclasshomemortgage.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              First Class Home Mortgage
+            </a>
+          </p>
           <p className="footerP">
             <a
               href="https://goo.gl/maps/o97dcDxGxFcAcRheA"
